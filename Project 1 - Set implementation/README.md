@@ -1,2 +1,2 @@
-# Proiect 1 - Set implementation
+# Project 1 - Set implementation
 
