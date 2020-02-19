@@ -1,0 +1,54 @@
+Metoda de a avea acolade este urmatoarea:
+if(conditie){
+    //operatie
+}
+
+Exemplu:
+if(pas % 2 == 1){
+        cout << "\nCautatorul 4 va face 2 mutari runda urmatoare";
+    }
+
+Se aplica si pentru structuri repetitive.
+Exceptie fac acoladele de la int main, pozitionate asa:
+int main()
+{
+    //operatii
+}
+
+Daca exista mai multe conditii (lungi) voi prefera sa le sparg pe cate un rand.
+Exemplu:
+if(okay == 1    //daca da peste comoara sa nu se mai miste
+       && inLimitsRows(ArrHunter[i]->poz.first)
+       && inLimitsColumns(ArrHunter[i]->poz.second)){
+            //operatii
+    }
+
+La astfel de if-uri obisnuiesc sa dau un tab in plus la operatii pentru a le diferentia de conditii.
+
+De obicei, las #include <librarie> legat de  #include "header", dar nu mereu.
+Exemplu:
+#include <iostream>
+#include "treasureMapHunt.h"
+
+La declararea in clase obisnuiesc sa separ tipurile de date. 
+Exemplu:
+
+        unsigned randomRow (unsigned);
+        unsigned randomCol (unsigned);
+
+        void showMatrix ();  //afisare matrice
+        void desfasurare (); //initiere joc
+        void detalii ();     //afisare detalii
+        void changeMatrix(); //deplasare pe harta
+        void moveHunters(Hunter*, unsigned, unsigned&);
+        void generateTreasures(); //generare pozitie comori
+        void stopPoz(unsigned, unsigned); //oprire mutare cautator
+
+        bool test(); //testare matrice >= 15x15
+        bool inLimitsRows(unsigned); //iesire din limite
+        bool inLimitsColumns(unsigned);
+
+        std::pair <unsigned, unsigned> getNextPoz(std::pair <unsigned, unsigned> );
+                //obtinere urmatoarea pozitie a cautatorului
+
+Cam asta e tot.
