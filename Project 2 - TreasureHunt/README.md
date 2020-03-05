@@ -1,7 +1,7 @@
 # TreasureHunt
 This game is played through the command line menu. For playing this game yourself scroll to the bottom of this file.
 
-### About this game
+## About this game
 Three treasures are placed on a board game (A lines x B columns -> matrix) and four treasure hunters are trying to get first to the treasures. There can be up to 3 winners and up to 4 losers (this last scenario happens when players cannot move and the game ends). All 3 treasures are randomly generated in the matrix, so there are a lot of unique games.
 
 Every treasure hunter has his own special(s) abilit(y)(ies):
@@ -51,14 +51,14 @@ Hunter 4 -> makes 2 moves every 2 rounds\
 #### Round 314 - Treasure hunter number 4 finds the last treasure -> Treasure hunter number 1 lost the game
 ![Round 314 - Treasure hunter number 4 finds the last treasure -> Treasure hunter number 1 lost the game](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_12.png)
 
-####
-If the matrix size is less than 15x15 game will not start.
-https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_13.png
+#### If the matrix size is less than 15x15 game will not start.
+![If the matrix size is less than 15x15 game will not start](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_13.png)
 
-#### Pressing a key that is not on the menu pops a message and requires a valid key https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_7.png
+#### Pressing a key that is not on the menu pops a message and requires a valid key 
+![Pressing a key that is not on the menu pops a message and requires a valid key ](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_7.png)
  
 #### If a player wants to not continue a game anymore he can press the key "9" and the game exits.
-https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_14.png
+![If a player wants to not continue a game anymore he can press the key "9" and the game exits.](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_14.png
 
 ### How to play this game
 
@@ -74,6 +74,10 @@ Step 3 -> Follow the instructions in the game menu
 
 
 ### Programming language used
-```
-C++
-```
+
+Just C++
+
+### Author
+
+Arghire Gabriel (me)
+
