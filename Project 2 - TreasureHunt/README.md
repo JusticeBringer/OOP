@@ -15,38 +15,38 @@ Hunter 4 -> makes 2 moves every 2 rounds\
 
 ### Game pictures and example
 
-![Compiling and running the source code](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_0)
+![Compiling and running the source code](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_0.png)
 
-![Board game dimensions](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_1)
+![Board game dimensions](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_1.png)
 
-![Welcome screen](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_2)
+![Welcome screen](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_2.png)
 
-![Starting the game](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_3)
+![Starting the game](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_3.png)
 
-![Map view](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_4)
+![Map view](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_4.png)
 
-![Round 9 - Treasure hunter number 3 found a treasure](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_5)
+![Round 9 - Treasure hunter number 3 found a treasure](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_5.png)
 
-![Round 15 - Pressing the key "2" shows the map changes](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_6)
+![Round 15 - Pressing the key "2" shows the map changes](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_6.png)
 
-![Round 49 - Treasure hunter number 2 found a treasure - One more left on the map](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_8)
+![Round 49 - Treasure hunter number 2 found a treasure - One more left on the map](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_8.png)
 
-![Round 79 - A view of the map](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_9)
+![Round 79 - A view of the map](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_9.png)
 
-![Round 224 - Another view of the map](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_10)
+![Round 224 - Another view of the map](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_10.png)
 
-![Round 300 - Game comes close to an end](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_11)
+![Round 300 - Game comes close to an end](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_11.png)
 
-![Round 314 - Treasure hunter number 4 finds the last treasure -> Treasure hunter number 1 lost the game](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_12)
+![Round 314 - Treasure hunter number 4 finds the last treasure -> Treasure hunter number 1 lost the game](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_12.png)
 
 If the matrix size is less than 15x15 game will not start.
-(https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_13)
+(https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_13.png)
 
 
-Pressing a key that is not on the menu pops a message and requires a valid key (https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_7)
+Pressing a key that is not on the menu pops a message and requires a valid key (https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_7.png)
 
 If a player wants to not continue a game anymore he can press the key "9" and the game exits.
-(https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_14)
+(https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_14.png)
 
 
 ### How to play this game
