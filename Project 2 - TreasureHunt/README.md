@@ -2,16 +2,19 @@
 This game is played through the command line menu. For playing this game yourself scroll to the bottom of this file.
 
 ## About this game
-Three treasures are placed on a board game (A lines x B columns -> matrix) and four treasure hunters are trying to get first to the treasures. There can be up to 3 winners and up to 4 losers (this last scenario happens when players cannot move and the game ends). All 3 treasures are randomly generated in the matrix, so there are a lot of unique games.
+Three treasures are placed on a board game (A lines x B columns -> matrix) and four treasure hunters are trying to get first to the treasures. There can be up to 3 winners and up to 4 losers (this last scenario happens when players cannot move and the game ends). All 3 treasures are randomly generated in the matrix, so there are a lot of unique games. All the 4 treasure hunters start from one of the matrix corners and have a unique type of moving towards the treasure. Once a certain number of rounds each player uses his special(s) abilit(y)(ies):
 
-Every treasure hunter has his own special(s) abilit(y)(ies):
+~~~
 
-Hunter 1 -> makes 2 moves every 4 rounds\
-Hunter 2 -> has a 15% chance to freeze other players position every 4 rounds\
-Hunter 2 -> (probably) moves to an adjacent position to a treasure every 6 rounds\
-Hunter 3 -> has a 30% chance to freeze other players position every 4 rounds\
-Hunter 3 -> (probably) moves to an adjacent position to a treasure every 8 rounds\
-Hunter 4 -> makes 2 moves every 2 rounds\
+* Hunter 1 -> makes 2 moves every 4 rounds\
+* Hunter 2 -> has a 15% chance to freeze other players position every 4 rounds\
+* Hunter 2 -> (probably) moves to an adjacent position to a treasure every 6 rounds\
+* Hunter 3 -> has a 30% chance to freeze other players position every 4 rounds\
+* Hunter 3 -> (probably) moves to an adjacent position to a treasure every 8 rounds\
+* Hunter 4 -> makes 2 moves every 2 rounds\
+
+~~~
+
 
 ### Game pictures and example
 
@@ -28,6 +31,18 @@ Hunter 4 -> makes 2 moves every 2 rounds\
 ![Starting the game](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_3.png)
 
 #### Map view
+
+Legend
+~~~
+* Character 0 means the position has not been occupied
+* Character 1 means that positions are occupied by treasure hunter number 1
+* Character 2 means that positions are occupied by treasure hunter number 2
+* Character 3 means that positions are occupied by treasure hunter number 3
+* Character 4 means that positions are occupied by treasure hunter number 4
+* Character 9 means the position is a treasure
+
+~~~
+
 ![Map view](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_4.png)
 
 #### Round 9 - Treasure hunter number 3 found a treasure
@@ -58,7 +73,7 @@ Hunter 4 -> makes 2 moves every 2 rounds\
 ![Pressing a key that is not on the menu pops a message and requires a valid key ](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_7.png)
  
 #### If a player wants to not continue a game anymore he can press the key "9" and the game exits.
-![If a player wants to not continue a game anymore he can press the key "9" and the game exits.](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_14.png
+![If a player wants to not continue a game anymore he can press the key "9" and the game exits](https://github.com/JusticeBringer/OOP/blob/master/Project%202%20-%20TreasureHunt/GamePictures/tr_14.png)
 
 ### How to play this game
 
