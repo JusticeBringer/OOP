@@ -1,7 +1,7 @@
 # OOP
 C++ programs
 
-``` javascript
+``` C++
 * Project 1 - Set implementation
 * Project 2 - Treasure Hunt
 * Project 3 - Dictionary AVL 
